@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gulumbesiddhi
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning BCS
